@@ -16,6 +16,6 @@
 - **Keep Learning:** Always stay curious and keep growing as a developer.
 
 🌟 **Fun Fact:**
-- Once stared at the sun for too long, leading to a blurry vision 😎
+- My favorite anime is "My Youth Romantic Comedy Is Wrong, As I Expected" because I could relate to the main character, Hachiman, at some point in my life. 📺
 
 🌐 **Let's Connect and Build Something Amazing Together!**
