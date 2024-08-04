@@ -1,21 +1,18 @@
-👋 **Hey there!**
-- **Name:** Jesse
-- **Pronouns:** He/Him
-- **Education:** 2nd-year IT student at Polytechnic University of the Philippines 🇵🇭
+**Jesse Mirabel**  
+**Pronouns:** He/Him
 
-💻 **Passionate About:**
-- Programming and development
-- Creating websites, apps, and games
+**Education:**  
+3rd-year IT student at Polytechnic University of the Philippines 🇵🇭
 
-🌱 **Currently Learning:**
-- C, CSS, HTML, Java, JavaScript, Python
+**Professional Interests:**
+- Programming
+- Game development
+- Web development
 
-🚀 **Goals:**
-- **Make Cool Stuff:** Create awesome websites, apps, and games.
-- **Help People:** Use technology to make life easier and more fun for everyone.
-- **Keep Learning:** Always stay curious and keep growing as a developer.
+**Skills & Knowledge:**
+- C, C++, CSS, HTML, Java, JavaScript, Python
 
-🌟 **Fun Fact:**
-- My favorite anime is "My Youth Romantic Comedy Is Wrong, As I Expected" because I could relate to the main character, Hachiman, at some point in my life. 📺
-
-🌐 **Let's Connect and Build Something Amazing Together!**
+**Goals:**
+- **Create Innovative Solutions:** Develop engaging websites, apps, and games that captivate users and provide real value.
+- **Design Impactful Experiences:** Build games and web applications that entertain and enhance user experiences.
+- **Continuous Learning:** Maintain a growth mindset by staying updated with the latest industry trends and technologies.
