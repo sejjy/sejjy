@@ -1,7 +1,5 @@
 **Jesse Mirabel**  
 
-**Pronouns:** He/Him
-
 **Education:**  
 3rd-year IT student at Polytechnic University of the Philippines 🇵🇭
 
