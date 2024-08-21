@@ -1,7 +1,5 @@
-**Jesse Mirabel**  
-
 **Education:**  
-3rd-year IT student at Polytechnic University of the Philippines
+- 3rd-year IT student at Polytechnic University of the Philippines
 
 **Professional Interests:**
 - Programming
