@@ -10,4 +10,4 @@
 - C, C++, CSS, HTML, Java, JavaScript, Python
 
 **Current Focus:**
-- Working on game development projects and developing an offline chatroom application.
+- Working on game development projects.
