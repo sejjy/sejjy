@@ -7,7 +7,7 @@
 - Web development
 
 **Skills & Knowledge:**
-- C, C++, CSS, HTML, Java, JavaScript, Python
+- C, C++, CSS, HTML, Java, Python
 
 **Current Focus:**
 - Working on game development projects.
