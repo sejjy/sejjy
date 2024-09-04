@@ -11,6 +11,7 @@ Hi, I'm **Jesse**, a 3rd-year IT student at the Polytechnic University of the Ph
     <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjy&layout=compact&langs_count=10&theme=dark&bg_color=00000000&border_radius=15" alt="Most Used Languages" />
   </a>
 </div>
-
+<!--
 ## Top Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sejjy&repo=MechaBar&theme=dark&bg_color=00000000&border_radius=15)](https://github.com/Sejjy/MechaBar)
+-->
