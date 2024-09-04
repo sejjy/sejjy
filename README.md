@@ -9,7 +9,6 @@ Hi, I'm **Jesse**, a 3rd-year IT student at the Polytechnic University of the Ph
 </p>
 
 ## GitHub Stats
-
 <div style="display: flex; flex-wrap: wrap;">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sejjy&custom_title=Jesse%27s%20GitHub%20Stats&hide_title=true&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15" alt="GitHub Stats" />
   &nbsp;
