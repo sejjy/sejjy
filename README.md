@@ -5,10 +5,10 @@ Hi, I'm **Jesse**, a 3rd-year IT student at the Polytechnic University of the Ph
 ## GitHub Stats
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/Sejjy">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Sejjy&custom_title=Jesse%27s%20GitHub%20Stats&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sejjy&custom_title=Jesse%27s%20GitHub%20Stats&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Sejjy">
-    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjy&layout=compact&theme=dark&bg_color=00000000&border_radius=11" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjy&layout=compact&theme=dark&bg_color=00000000&border_radius=11" alt="Top Languages" />
   </a>
 </div>
 
