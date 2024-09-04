@@ -12,7 +12,7 @@ Hi, I'm **Jesse**, a 3rd-year IT student at the Polytechnic University of the Ph
 
 <div style="display: flex; flex-wrap: wrap;">
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Sejjy&custom_title=Jesse%27s%20GitHub%20Stats&hide_title=true&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15" alt="GitHub Stats" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjy&layout=compact&langs_count=10&theme=dark&bg_color=00000000&border_radius=15" alt="Most Used Languages" />
 </div>
 
