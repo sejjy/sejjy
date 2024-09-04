@@ -1,4 +1,4 @@
-# Jesse Mirabel `#sejjy`
+# Jesse Mirabel `#Sejjy`
 
 Hi, I'm **Jesse**, a 3rd-year IT student at the Polytechnic University of the Philippines. I'm passionate about programming, game development, and web development. I have a basic understanding of C, C++, CSS, HTML, Java, and Python, and I'm currently focused on learning more through game development projects.
 
