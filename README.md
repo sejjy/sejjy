@@ -18,14 +18,3 @@
   <a href="https://github.com/Sejjy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejjy&layout=compact&langs_count=10&theme=dark&bg_color=00000000&border_radius=15&size_weight=0.5&count_weight=0.5" alt="Most Used Languages"></a>
 </div>
-
-<h2 align="center">🛠️ Recent Projects</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/Sejjy/MechaBar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejjy&repo=MechaBar&theme=dark&bg_color=00000000&border_radius=15&description_lines_count=3" alt="MechaBar"></a>
-  <a href="https://github.com/Sejjy/blade-of-the-uplands">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejjy&repo=blade-of-the-uplands&theme=dark&bg_color=00000000&border_radius=15&description_lines_count=3" alt="Blade of the Uplands"></a>
-  <a href="https://github.com/Sejjy/cybersmile-coffee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sejjy&repo=cybersmile-coffee&theme=dark&bg_color=00000000&border_radius=15&description_lines_count=3" alt="Cybersmile Coffee"></a>
-</div>
