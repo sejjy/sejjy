@@ -1,4 +1,4 @@
-# Jesse Mirabel - `Sejjy`
+# Jesse Mirabel - `sejjy`
 
 Hi, I'm **Jesse**—a 3rd-year IT student at the Polytechnic University of the Philippines. I'm passionate about programming, game development, and web development, and I'm actively building my skills through personal projects.
 
