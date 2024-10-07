@@ -4,7 +4,7 @@ Hi, I'm **Jesse**—a 3rd-year IT student at the Polytechnic University of the P
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/sejjy">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,py,arch,git,vscode&theme=dark&perline=9" alt="Programming Languages" /></a>
+    <img src="https://skillicons.dev/icons?i=cpp,css,html,java,py,arch,bash,git,vscode&theme=dark&perline=9" alt="Programming Languages" /></a>
 </div>
 
 ## 📊 GitHub Stats:
