@@ -1,13 +1,13 @@
 # Jesse Mirabel `sejjy`
 
-Hi, I'm **Jesse**—a 3rd-year IT student at Polytechnic University of the Philippines. I'm passionate about programming, game development, and web development—actively building my skills through personal projects.
+Hi, I'm **Jesse**—a 3rd-year IT student at Polytechnic University of the Philippines. I'm passionate about programming and development—actively building my skills through personal projects.
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/sejjy">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7" alt="Programming Languages" /></a>
 </div>
 
-## 📊 GitHub Stats:
+## 📊 Public Stats:
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/sejjy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sejjy&hide_title=true&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15&card_width=200px&include_all_commits=true" alt="GitHub Stats" /></a>
