@@ -8,6 +8,7 @@ Hi, I'm **Jesse**—a 3rd-year IT student at Polytechnic University of the Phili
 </div>
 
 ## 📊 Public Stats:
+
 <div align="center" style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/sejjy">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sejjy&hide_title=true&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15&card_width=200px&include_all_commits=true" alt="GitHub Stats" /></a>
