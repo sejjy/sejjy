@@ -20,7 +20,7 @@
   I actively build my skills through personal projects and hands-on practice. 👨🏻‍💻
 </div>
 
-## 🛠️ Tech Stack
+##
 
 <a href="https://github.com/sejjy#gh-dark-mode-only">
   <img
