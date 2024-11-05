@@ -1,22 +1,56 @@
-# Jesse Mirabel `sejjy`
+## Hi 👋🏼, I'm Jesse Mirabel (`sejjy`)
 
-Hi, I'm **Jesse**—a 3rd-year IT student at Polytechnic University of the Philippines. I'm passionate about programming and development—actively building my skills through personal projects.
+<a href="https://discordapp.com/users/942658710625456139" target="_blank">
+  <img width="40px" src="assets/icons8-discord.svg"
+/></a>
+<a href="mailto:mirabeljessemari@gmail.com" target="_blank">
+  <img width="40px" src="assets/icons8-gmail.svg"
+/></a>
+<a
+  href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/"
+  target="_blank"
+>
+  <img width="40px" src="assets/icons8-linked-in.svg"
+/></a>
 
-<div align="center" style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/sejjy">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7" alt="Programming Languages" /></a>
-</div>
+A 3rd-year IT student at Polytechnic University of the Philippines, passionate
+about programming and development. I actively build my skills through personal
+projects and hands-on practice. 👨🏻‍💻
 
-## 📊 Public Stats:
+## 🛠️ Tech Stack
 
-![](https://raw.githubusercontent.com/sejjy/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sejjy/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/sejjy/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/sejjy/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/sejjy#gh-dark-mode-only">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7"
+    alt="Tech Stack"
+/></a>
 
-<!-- <div align="center" style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/sejjy">
-    <img src="https://github-readme-stats.vercel.app/api?username=sejjy&hide_title=true&show_icons=true&theme=dark&bg_color=00000000&ring_color=6FE78B&border_radius=15&card_width=200px&include_all_commits=true" alt="GitHub Stats" /></a>
-  <a href="https://github.com/sejjy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sejjy&custom_title=Top%20Languages&layout=compact&langs_count=6&theme=dark&bg_color=00000000&border_radius=15&size_weight=0.5&count_weight=0.5&cache_seconds=21600&exclude_repo=blade-of-the-uplands" alt="Top Languages" /></a>
-</div> -->
+<a href="https://github.com/sejjy#gh-light-mode-only">
+  <img
+    src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=light&perline=7"
+    alt="Tech Stack"
+/></a>
+
+## 📊 Public Stats
+
+<a href="https://github.com/sejjy#gh-dark-mode-only">
+  <img
+    src="https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"
+    alt="GitHub Statistics"
+/></a>
+<a href="https://github.com/sejjy#gh-dark-mode-only">
+  <img
+    src="https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"
+    alt="Languages Used"
+/></a>
+
+<a href="https://github.com/sejjy#gh-light-mode-only">
+  <img
+    src="https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-light-mode-only"
+    alt="GitHub Statistics"
+/></a>
+<a href="https://github.com/sejjy#gh-light-mode-only">
+  <img
+    src="https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"
+    alt="Languages Used"
+/></a>
