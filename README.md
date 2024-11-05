@@ -14,10 +14,11 @@
 
 <br>
 
-A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
-
-I actively build my skills through personal
-projects and hands-on practice. 👨🏻‍💻
+<div style="line-height: 1.3; text-align: center;">
+  A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
+  <br>
+  I actively build my skills through personal projects and hands-on practice. 👨🏻‍💻
+</div>
 
 ## 🛠️ Tech Stack
 
