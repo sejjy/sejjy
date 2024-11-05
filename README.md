@@ -10,6 +10,8 @@
   <img width="32px" src="assets/icons8-linked-in.svg"
 /></a>
 
+<br>
+
 A 3rd-year IT student at Polytechnic University of the Philippines, passionate
 about programming and development. I actively build my skills through personal
 projects and hands-on practice. 👨🏻‍💻
