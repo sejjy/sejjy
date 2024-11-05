@@ -26,14 +26,12 @@
   <img
     src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7"
     alt="Tech Stack"
-    height="40px"
 /></a>
 
 <a href="https://github.com/sejjy#gh-light-mode-only">
   <img
     src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=light&perline=7"
     alt="Tech Stack"
-    height="40px"
 /></a>
 
 ## 📊 Public Stats
