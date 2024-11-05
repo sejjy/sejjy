@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi 👋🏼, I'm Jesse Mirabel (`sejjy`)
 
 <a href="https://discordapp.com/users/942658710625456139">
@@ -12,8 +14,9 @@
 
 <br>
 
-A 3rd-year IT student at Polytechnic University of the Philippines, passionate
-about programming and development. I actively build my skills through personal
+A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
+
+I actively build my skills through personal
 projects and hands-on practice. 👨🏻‍💻
 
 ## 🛠️ Tech Stack
@@ -55,3 +58,5 @@ projects and hands-on practice. 👨🏻‍💻
     src="https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"
     alt="Languages Used"
 /></a>
+
+</div>
