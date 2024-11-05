@@ -1,24 +1,14 @@
 <div align="center">
 
-# 👋🏼 Hi, I'm Jesse
+# Hi, I'm Jesse 👨🏻‍💻
 
-<div style="line-height: 1.3; text-align: center;">
-  A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
+<div style="line-height: 1.5; text-align: center;">
+  &mdash;a 3rd-year IT student at the Polytechnic University of the Philippines, 🇵🇭
   <br>
-  I actively build my skills through personal projects and hands-on practice. 👨🏻‍💻
+  actively building my skills through personal projects. 💻
 </div>
 
-<a href="https://discordapp.com/users/942658710625456139">
-  <img width="32px" src="assets/icons8-discord.svg"
-/></a>
-<a href="mailto:mirabeljessemari@gmail.com">
-  <img width="32px" src="assets/icons8-gmail.svg"
-/></a>
-<a href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/">
-  <img width="32px" src="assets/icons8-linked-in.svg"
-/></a>
-
-##
+<br>
 
 <a href="https://github.com/sejjy#gh-dark-mode-only">
   <img
