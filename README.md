@@ -2,6 +2,12 @@
 
 # 👋🏼 Hi, I'm Jesse
 
+<div style="line-height: 1.3; text-align: center;">
+  A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
+  <br>
+  I actively build my skills through personal projects and hands-on practice. 👨🏻‍💻
+</div>
+
 <a href="https://discordapp.com/users/942658710625456139">
   <img width="32px" src="assets/icons8-discord.svg"
 /></a>
@@ -11,14 +17,6 @@
 <a href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/">
   <img width="32px" src="assets/icons8-linked-in.svg"
 /></a>
-
-<br>
-
-<div style="line-height: 1.3; text-align: center;">
-  A 3rd-year IT student at the Polytechnic University of the Philippines. 🇵🇭
-  <br>
-  I actively build my skills through personal projects and hands-on practice. 👨🏻‍💻
-</div>
 
 ##
 
