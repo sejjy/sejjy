@@ -1,16 +1,16 @@
 ## Hi 👋🏼, I'm Jesse Mirabel (`sejjy`)
 
 <a href="https://discordapp.com/users/942658710625456139" target="_blank">
-  <img width="40px" src="assets/icons8-discord.svg"
+  <img width="32px" src="assets/icons8-discord.svg"
 /></a>
 <a href="mailto:mirabeljessemari@gmail.com" target="_blank">
-  <img width="40px" src="assets/icons8-gmail.svg"
+  <img width="32px" src="assets/icons8-gmail.svg"
 /></a>
 <a
   href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/"
   target="_blank"
 >
-  <img width="40px" src="assets/icons8-linked-in.svg"
+  <img width="32px" src="assets/icons8-linked-in.svg"
 /></a>
 
 A 3rd-year IT student at Polytechnic University of the Philippines, passionate
@@ -23,12 +23,14 @@ projects and hands-on practice. 👨🏻‍💻
   <img
     src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7"
     alt="Tech Stack"
+    height="40px"
 /></a>
 
 <a href="https://github.com/sejjy#gh-light-mode-only">
   <img
     src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=light&perline=7"
     alt="Tech Stack"
+    height="40px"
 /></a>
 
 ## 📊 Public Stats
