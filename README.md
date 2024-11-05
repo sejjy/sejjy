@@ -1,15 +1,12 @@
 ## Hi 👋🏼, I'm Jesse Mirabel (`sejjy`)
 
-<a href="https://discordapp.com/users/942658710625456139" target="_blank">
+<a href="https://discordapp.com/users/942658710625456139">
   <img width="32px" src="assets/icons8-discord.svg"
 /></a>
-<a href="mailto:mirabeljessemari@gmail.com" target="_blank">
+<a href="mailto:mirabeljessemari@gmail.com">
   <img width="32px" src="assets/icons8-gmail.svg"
 /></a>
-<a
-  href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/"
-  target="_blank"
->
+<a href="https://www.linkedin.com/in/jesse-mari-mirabel-0b098b2a8/">
   <img width="32px" src="assets/icons8-linked-in.svg"
 /></a>
 
