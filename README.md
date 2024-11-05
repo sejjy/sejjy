@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋🏼 Hi, I'm Jesse
+# 👋🏼 Hi, I'm Jesse
 
 <a href="https://discordapp.com/users/942658710625456139">
   <img width="32px" src="assets/icons8-discord.svg"
