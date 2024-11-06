@@ -1,49 +1,27 @@
-<div align="center">
+# sejjy `o,o`
 
-# Hi, I'm Jesse 👨🏻‍💻
+Hi 👋🏼, I'm **Jesse** (`jess-ee`)&mdash;a 3rd-year **<ins>I</ins>nformation <ins>T</ins>echnology (IT)** student at **<ins>P</ins>olytechnic <ins>U</ins>niversity of the <ins>P</ins>hilippines (PUP)**, actively building my skills `</>` through personal projects.
 
-<div style="line-height: 1.5; text-align: center;">
-  &mdash;a 3rd-year IT student at the Polytechnic University of the Philippines, 🇵🇭
-  <br>
-  actively building my skills through personal projects. 💻
-</div>
+## 💻 Tech Stack
 
-<br>
+Here are _some_ of the technologies I’m _currently_ working with:
 
-<a href="https://github.com/sejjy#gh-dark-mode-only">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7"
-    alt="Tech Stack"
-/></a>
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7)](https://github.com/sejjy#gh-dark-mode-only)
 
-<a href="https://github.com/sejjy#gh-light-mode-only">
-  <img
-    src="https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=light&perline=7"
-    alt="Tech Stack"
-/></a>
+[![Tech Stack](https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=light&perline=7)](https://github.com/sejjy#gh-light-mode-only)
 
-## 📊 Public Stats
+> C++, HTML, CSS, Bash, Git, Arch Linux, Visual Studio Code
 
-<a href="https://github.com/sejjy#gh-dark-mode-only">
-  <img
-    src="https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only"
-    alt="GitHub Statistics"
-/></a>
-<a href="https://github.com/sejjy#gh-dark-mode-only">
-  <img
-    src="https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only"
-    alt="Languages Used"
-/></a>
+## 📊 GitHub Stats
 
-<a href="https://github.com/sejjy#gh-light-mode-only">
-  <img
-    src="https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-light-mode-only"
-    alt="GitHub Statistics"
-/></a>
-<a href="https://github.com/sejjy#gh-light-mode-only">
-  <img
-    src="https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-light-mode-only"
-    alt="Languages Used"
-/></a>
+Here’s a quick look at my GitHub activity:
 
-</div>
+[![GitHub Statistics](https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/sejjy#gh-dark-mode-only)
+[![Languages Used](https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)](https://github.com/sejjy#gh-dark-mode-only)
+
+[![GitHub Statistics](https://github.com/sejjy/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)](https://github.com/sejjy#gh-light-mode-only)
+[![Languages Used](https://github.com/sejjy/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)](https://github.com/sejjy#gh-light-mode-only)
+
+#
+
+**_Check out my projects_** ✨ **_down below!_** 👇🏼
