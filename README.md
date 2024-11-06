@@ -1,6 +1,6 @@
 # sejjy `o,o`
 
-Hi 👋🏼, I'm **Jesse** (`jess-ee`)&mdash;a 3rd-year **<ins>I</ins>nformation <ins>T</ins>echnology (IT)** student at **<ins>P</ins>olytechnic <ins>U</ins>niversity of the <ins>P</ins>hilippines (PUP)**, actively building my skills `</>` through personal projects.
+Hi 👋🏼, I'm **Jesse** (`jess-ee`)&mdash;a 3rd-year **<ins>I</ins>nformation <ins>T</ins>echnology (IT)** student at **<ins>P</ins>olytechnic <ins>U</ins>niversity of the <ins>P</ins>hilippines (PUP)**, actively building my skills `</>` through school and personal projects.
 
 ## 💻 Tech Stack
 
