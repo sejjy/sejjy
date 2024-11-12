@@ -1,10 +1,10 @@
-# sejjy `o,o`
+# Hi 👋🏼, I'm Jesse (`ˈje-sē`)
 
-Hi 👋🏼, I'm **Jesse** (`jess-ee`)&mdash;a 3rd-year **<ins>I</ins>nformation <ins>T</ins>echnology (IT)** student at **<ins>P</ins>olytechnic <ins>U</ins>niversity of the <ins>P</ins>hilippines (PUP)**, actively building my skills `</>` through school and personal projects.
+I'm a 3rd-year **Information Technology** student at **Polytechnic University of the Philippines**, actively building my skills through school and personal projects.
 
 ## 💻 Tech Stack
 
-Here are _some_ of the technologies I’m _currently_ working with:
+Here are some of the technologies I’m currently working with:
 
 [![Tech Stack](https://skillicons.dev/icons?i=cpp,html,css,bash,git,arch,vscode&theme=dark&perline=7)](https://github.com/sejjy#gh-dark-mode-only)
 
@@ -24,4 +24,4 @@ Here’s a quick look at my GitHub activity:
 
 #
 
-**_Check out my projects_** ✨ **_down below!_** 👇🏼
+**_Check out my projects below!_** 👇🏼
