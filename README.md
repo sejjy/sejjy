@@ -8,18 +8,18 @@
 Here are some of the technologies I’m currently working with:
 
 <a href="https://github.com/sejjy#gh-dark-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,bash,git,neovim,vscode,arch&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,bash,react,git,neovim,vscode,arch&theme=dark" alt="Tech Stack" />
 </a>
 
 <a href="https://github.com/sejjy#gh-light-mode-only">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,react,bash,git,neovim,vscode,arch&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,bash,react,git,neovim,vscode,arch&theme=light" alt="Tech Stack" />
 </a>
 
 <p></p>
 
-&ensp;&nbsp;&hairsp;**Languages**:&emsp;HTML, CSS, JavaScript, Python, C++  
+&ensp;&nbsp;&hairsp;**Languages**:&emsp;HTML, CSS, JavaScript, Python, C++, Bash  
 &nbsp;**Frameworks**:&emsp;React  
-&emsp;&emsp;&emsp;&nbsp;&hairsp;**Tools**:&emsp;Bash, Git, Neovim, VS Code  
+&emsp;&emsp;&emsp;&nbsp;&hairsp;**Tools**:&emsp;Git, Neovim, VS Code  
 **Environment**:&emsp;Arch Linux
 
 ## 📊 GitHub Stats
